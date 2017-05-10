@@ -1,0 +1,29 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hoodie",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hoodie": "^28.1.0"
+  },
+
+  "hoodie": {
+    "address": "127.0.0.1",
+    "port": 8080,
+    "data": ".hoodie",
+    "public": "public",
+    "dbUrl": "",
+    "dbAdapter": "pouchdb-adapter-fs",
+    "inMemory": false,
+    "loglevel": "warn",
+    "url": "",
+    "adminPassword": "secret"
+  }
+
+}
