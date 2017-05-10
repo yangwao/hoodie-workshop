@@ -33,6 +33,12 @@ add this to package.json
   }
 ```
 
+```
+hoodie.store.add({name: 'grey'})
+hoodie.store.findAll().then(console.table)
+hoodie.store.update({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50', name: 'red'})
+hoodie.store.remove({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50'})
+```
 ### configuration
 
 http://docs.hood.ie/en/latest/guides/configuration.html
