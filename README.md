@@ -32,10 +32,14 @@ add this to package.json
     "adminPassword": "secret"
   }
 ```
-
 ### configuration
 
 http://docs.hood.ie/en/latest/guides/configuration.html
+
+### demos
+
+https://github.com/hoodiehq/hoodie-camp-tutorial
+https://github.com/hoodiehq/hoodie-app-tracker
 
 ### Based on Hoodie
 
