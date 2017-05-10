@@ -34,11 +34,15 @@ add this to package.json
 ```
 
 ```
+hoodie.store.db
 hoodie.store.add({name: 'grey'})
 hoodie.store.findAll().then(console.table)
+hoodie.store.updateAll({name: 'beige'})
 hoodie.store.update({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50', name: 'red'})
 hoodie.store.remove({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50'})
 ```
+[hoodie.store doc](http://docs.hood.ie/en/latest/api/client/hoodie.html#hoodie-store)
+
 ### configuration
 
 http://docs.hood.ie/en/latest/guides/configuration.html
