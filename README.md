@@ -1,6 +1,7 @@
 # hoodieshop
-[How Hood.ie works](http://docs.hood.ie/en/latest/about/how-hoodie-works.html)
-[Glossary](http://docs.hood.ie/en/latest/about/glossary.html)
+
+* [How Hood.ie works](http://docs.hood.ie/en/latest/about/how-hoodie-works.html)
+* [Glossary](http://docs.hood.ie/en/latest/about/glossary.html)
 
 ### Hoodie-Camp-Tutorial
 ```
@@ -73,7 +74,7 @@ Now turn of your internet connection. Add colors to both browsers. Turn on your 
 [hoodie.store doc](http://docs.hood.ie/en/latest/api/client/hoodie.html#hoodie-store)
 [hoodie.account doc](http://docs.hood.ie/en/latest/api/client/hoodie.account.html)
 
-### tips 
+### tips
 
 We have here led strip, curl  'http://192.168.223.59/?r=775&g=1022&b=280' -X POST
 
@@ -82,18 +83,18 @@ We have here led strip, curl  'http://192.168.223.59/?r=775&g=1022&b=280' -X POS
 
 ### configuration
 
-http://docs.hood.ie/en/latest/guides/configuration.html
+* http://docs.hood.ie/en/latest/guides/configuration.html
 
 ### demos
 
-https://github.com/hoodiehq/hoodie-camp-tutorial
-https://github.com/hoodiehq/hoodie-app-tracker
+* https://github.com/hoodiehq/hoodie-camp-tutorial
+* https://github.com/hoodiehq/hoodie-app-tracker
 
 ### Based on Hoodie
 
-https://tracker.hood.ie/
-https://minutes.io/welcome
-https://github.com/hoodiehq/hoodie-app-mapchat
+* https://tracker.hood.ie/
+* https://minutes.io/welcome
+* https://github.com/hoodiehq/hoodie-app-mapchat
 
 ### plugins
 [lot of plugins](https://www.npmjs.com/search?q=hoodie-plugin-)
