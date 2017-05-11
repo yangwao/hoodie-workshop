@@ -47,6 +47,11 @@ hoodie.store.remove({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50'})
 
 http://docs.hood.ie/en/latest/guides/configuration.html
 
+### demos
+
+https://github.com/hoodiehq/hoodie-camp-tutorial
+https://github.com/hoodiehq/hoodie-app-tracker
+
 ### Based on Hoodie
 
 https://tracker.hood.ie/
