@@ -34,9 +34,17 @@ add this to package.json
 ```
 
 ```
+By default, every 30 secs check
+hoodie.connectionStatus.startChecking() 
+manual, events disconnect & reconnect 
+hoodie.connectionStatus.check()
+
 hoodie.store.db
-hoodie.store.add({name: 'grey'})
+hoodie.ready
+Colors
+hoodie.store.add({name: 'pink'})
 hoodie.store.findAll().then(console.table)
+hoodie.store.findAll().then(console.dir)
 hoodie.store.updateAll({name: 'beige'})
 hoodie.store.update({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50', name: 'red'})
 hoodie.store.remove({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50'})
