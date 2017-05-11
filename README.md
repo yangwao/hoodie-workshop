@@ -56,7 +56,13 @@ hoodie.store.remove(prompt('id'))
 hoodie.store.update({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50', name: 'red'})
 hoodie.store.remove({_id: '8AC219A6-312C-0F8E-AC0D-1CEE73D84D50'})
 ```
+
+Want to see something fun? Open this page in another browser, sign in with the same account, then add colors. Watch the magic happen…
+
+Now turn of your internet connection. Add colors to both browsers. Turn on your internet connection again, and wait a moment.
+
 [hoodie.store doc](http://docs.hood.ie/en/latest/api/client/hoodie.html#hoodie-store)
+[hoodie.account doc](http://docs.hood.ie/en/latest/api/client/hoodie.account.html)
 
 ### configuration
 
