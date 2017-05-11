@@ -45,8 +45,11 @@ npm install hoodie --save
 edit package.json >> scripts.start = "hoodie"
 npm start
 go to http://127.0.0.1:8080/hoodie/store/
+or create public/index.html
+insert "<script src="http://127.0.0.1:8080/hoodie/client.js"></script>" to public/index.html to use hoodie client.js
 open console
 type hoodie
+
 yay!
 some secrets http://127.0.0.1:8080/hoodie/admin/
 ```
