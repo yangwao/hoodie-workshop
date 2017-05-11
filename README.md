@@ -98,3 +98,7 @@ We have here led strip, curl  'http://192.168.223.59/?r=775&g=1022&b=280' -X POS
 
 ### plugins
 [lot of plugins](https://www.npmjs.com/search?q=hoodie-plugin-)
+
+### help
+
+If you got questions, visit [Hood.ie Chat](http://hood.ie/chat/)
