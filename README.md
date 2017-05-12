@@ -1,4 +1,4 @@
-# hoodieshop
+# Hood.ie workshop notes
 
 * [How Hood.ie works](http://docs.hood.ie/en/latest/about/how-hoodie-works.html)
 * [Glossary](http://docs.hood.ie/en/latest/about/glossary.html)
@@ -74,8 +74,8 @@ Want to see something fun? Open this page in another browser, sign in with the s
 
 Now turn of your internet connection. Add colors to both browsers. Turn on your internet connection again, and wait a moment.
 
-[hoodie.store doc](http://docs.hood.ie/en/latest/api/client/hoodie.html#hoodie-store)
-[hoodie.account doc](http://docs.hood.ie/en/latest/api/client/hoodie.account.html)
+* [hoodie.store doc](http://docs.hood.ie/en/latest/api/client/hoodie.html#hoodie-store)
+* [hoodie.account doc](http://docs.hood.ie/en/latest/api/client/hoodie.account.html)
 
 ### tips
 
@@ -100,7 +100,7 @@ We have here led strip, curl  'http://192.168.223.59/?r=775&g=1022&b=280' -X POS
 * https://github.com/hoodiehq/hoodie-app-mapchat
 
 ### plugins
-[lot of plugins](https://www.npmjs.com/search?q=hoodie-plugin-)
+* [lot of plugins](https://www.npmjs.com/search?q=hoodie-plugin-)
 
 ### help
 
